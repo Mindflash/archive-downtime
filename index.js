@@ -13,4 +13,4 @@ require('http').createServer(function (request, response) {
 			}
 		});
 	}).resume();
-}).listen(8080);
+}).listen(6700);
